@@ -9,7 +9,7 @@ Hi, I'm [Your Name]. I build AI automation workflows that save time and reduce m
 - Reporting + alerts (Slack/Email)
 
 ## Projects
-### 1) [Project Name] — [1-line outcome]
+### 1) n8n SMS bot — customer support and lead qualification bot via SMS
 **Problem:**  
 **Solution:**  
 **Stack:** n8n / Zapier / Make / Python / OpenAI / Google Sheets / Slack / etc  
